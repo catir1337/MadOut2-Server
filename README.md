@@ -1,5 +1,5 @@
-# MadOut2-Server
-# Bend Game Server
+
+# Auth+Game Server for madout2
 
 **By catir1337**
 
