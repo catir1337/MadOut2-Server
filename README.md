@@ -14,5 +14,7 @@ Game server > game.exe bend_GameServer -batchmode -port:(port)
 server_ip=127.0.0.1
 bend_port=35000
 
+[video yt]([https://youtu.be/GgpAtbjKmzU])
+
 *By catir1337*
 
