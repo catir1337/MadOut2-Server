@@ -1,8 +1,8 @@
 # Auth+Game Server for MadOut2
 
 Auth server → `main.py`  
-Game server → `MadOut2.exe bend_GameServer -batchmode -port:<port>`
-
+Game server → `MadOut2.exe bend_GameServer -batchmode -port:<port> `
+*Версия Server урезанная, чтобы работал лишь сервер в режиме -batchmode* 
 ---
 
 ### Добавление сервера в `main.py`
